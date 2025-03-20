@@ -1,1 +1,1 @@
-# DartLang free .NET PWA for learning Polish and English
+# DartLang, free .NET PWA for learning Polish and English
